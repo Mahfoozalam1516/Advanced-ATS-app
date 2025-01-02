@@ -3,6 +3,7 @@ PyPDF2==3.0.1
 python-docx==1.0.1
 nltk==3.8.1
 spacy==3.7.2
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.0/en_core_web_sm-3.7.0.tar.gz
 pandas==2.1.4
 plotly==5.18.0
 scikit-learn==1.3.2
